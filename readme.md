@@ -75,14 +75,8 @@ All the details about the problems and the implementation is detailed in the *A-
 
 * Python 3 (Compatible with all 3 subversions)
 
-
-
 <!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-### Documentation
+## Documentation
 The documentation used to build this project is the following
 * [Constraint Processing](https://www.ics.uci.edu/~dechter/books/index.html), by Nina Decther
 * [Brilliant's A* article](https://brilliant.org/wiki/a-star-search/)
