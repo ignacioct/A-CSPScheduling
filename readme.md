@@ -63,8 +63,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/GLPK_solution_of_a_travelling_salesman_problem.svg/1200px-GLPK_solution_of_a_travelling_salesman_problem.svg.png)
-
 In this small project, a CSP Scheduler and a A* Algorithm are implemented for solving two tasks, one for each problem:
 * The scheduler aims to solve a high school subjects scheduling problem.
 * The search algorithm is applied on a version of the Travelling Salesman Problem.
