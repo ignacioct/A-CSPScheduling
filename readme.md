@@ -68,7 +68,7 @@ In this small project, a CSP Scheduler and a A* Algorithm are implemented for so
 * The scheduler aims to solve a high school subjects scheduling problem.
 * The search algorithm is applied on a version of the Travelling Salesman Problem.
 
-All the details about the problems and the implementation is detailed in the *A-CSPSchedulingrt.pdf* file, which was used for the University Delivery.
+All the details about the problems and the implementation is detailed in the *report.pdf* file, which was used for the University delivery.
 
 
 
