@@ -36,7 +36,7 @@
   <h3 align="center">A* & CSP Scheduling</h3>
 
   <p align="center">
-    Implementation of a CSP Scheduler and A* algorithm to solve a travelling busman problem.
+    Implementation of a CSP Scheduler and A* algorithm to solve a travelling salesman problem.
     <br />
   </p>
 </p>
